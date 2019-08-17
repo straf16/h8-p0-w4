@@ -17,9 +17,6 @@ function digitPerkalianMinimum(angka) {
             digitMinimum = kali[i].length - 1;
         }
     }
-
-    console.log(kali);
-    
     return digitMinimum;
 }
 
